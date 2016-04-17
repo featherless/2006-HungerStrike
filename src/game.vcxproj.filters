@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+    <Filter Include="ParticleSystem">
+      <UniqueIdentifier>{95ec5870-45df-4319-bb1a-c9c0a24e4371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ParticleSystem\ParticleSystems">
+      <UniqueIdentifier>{e62f2848-4213-43a0-ba70-db206af6de20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ParticleSystem\ParticleSystems\Burst">
+      <UniqueIdentifier>{e425d878-1b48-4b4a-9a76-23f0b3e4ff24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ParticleSystem\ParticleSystems\Explosion">
+      <UniqueIdentifier>{d4d1c76c-8f4e-4a74-8422-0e2b835cfab9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ParticleSystem\ParticleSystems\GestureTrail">
+      <UniqueIdentifier>{936632a9-bc59-410e-a67e-0794d90e720f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ParticleSystem\ParticleSystems\Fire">
+      <UniqueIdentifier>{54284f92-b051-4db8-9688-454f571f8f06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ParticleSystem\ParticleSystems\Rain">
+      <UniqueIdentifier>{b720660d-329d-4181-bb0d-44a0b2c8d96d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shooter">
+      <UniqueIdentifier>{d99f6c96-b4d0-4d9d-b54b-9ee8162df211}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules">
+      <UniqueIdentifier>{7c704685-77e3-4bad-8b61-25638f36353d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\GameLevel1">
+      <UniqueIdentifier>{7bc45968-7db0-424d-afbe-36bf10271db2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Lose">
+      <UniqueIdentifier>{70476d51-6f2e-4aa7-ab8e-1070f0f31cb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Win">
+      <UniqueIdentifier>{fae478be-e230-4895-b6a7-41410fd841fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Win\Level1">
+      <UniqueIdentifier>{f8b078b3-c37f-42ff-8f79-fa41c8d58be5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Win\Level2">
+      <UniqueIdentifier>{3317bb6e-1e0f-4565-97ee-ec7cb5af146e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\GameLevel2">
+      <UniqueIdentifier>{54cddaee-9b5e-42e7-96a7-e20ed8bf14df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\MainMenu">
+      <UniqueIdentifier>{8f99a6e7-0bda-410a-a025-52ba93f483f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Instructions">
+      <UniqueIdentifier>{486dcc05-1df1-4c9e-9813-0b9e5e4edf8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\GameLevel3">
+      <UniqueIdentifier>{c4437794-be10-405e-affb-36aa4101a0aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\GameWin">
+      <UniqueIdentifier>{6a42a865-8253-499c-9352-7b9ec9e62000}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\Credits">
+      <UniqueIdentifier>{705dc54a-97f3-4067-823b-852cd94435c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gestures">
+      <UniqueIdentifier>{856c59e3-83bd-461a-a1ae-839fac84240d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters">
+      <UniqueIdentifier>{a717820a-4f22-4ca8-bfa4-da6e52c318d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monsters\Zombie">
+      <UniqueIdentifier>{3665ee6f-06ab-46a4-a83e-c2559f260932}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SFXEngine">
+      <UniqueIdentifier>{11f7c573-baec-4ba9-925f-c069b14eab7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unused">
+      <UniqueIdentifier>{22ad1a64-882d-4883-828b-77f86fd20bcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unused\TownHUD">
+      <UniqueIdentifier>{88d8f5cc-85bb-44d3-8e49-fcee9cd0faca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unused\Gestures">
+      <UniqueIdentifier>{eec070d7-a093-4016-af59-179969b7c144}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unused\Level1">
+      <UniqueIdentifier>{ea531b61-a997-407c-9071-5bb8c2606ac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unused\NewGame">
+      <UniqueIdentifier>{fb7ecd1c-6428-4dfe-b2a4-68dd65918b56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unused\Tower">
+      <UniqueIdentifier>{bd30d231-ce22-4523-81d6-4e9b755b9aec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Library">
+      <UniqueIdentifier>{03e15657-a040-4865-b64d-92f778209f29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameDefs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>ParticleSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystemChild.cpp">
+      <Filter>ParticleSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Burst.cpp">
+      <Filter>ParticleSystem\ParticleSystems\Burst</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>ParticleSystem\ParticleSystems\Explosion</Filter>
+    </ClCompile>
+    <ClCompile Include="GestureTrail.cpp">
+      <Filter>ParticleSystem\ParticleSystems\GestureTrail</Filter>
+    </ClCompile>
+    <ClCompile Include="Fire.cpp">
+      <Filter>ParticleSystem\ParticleSystems\Fire</Filter>
+    </ClCompile>
+    <ClCompile Include="Rain.cpp">
+      <Filter>ParticleSystem\ParticleSystems\Rain</Filter>
+    </ClCompile>
+    <ClCompile Include="Shooter.cpp">
+      <Filter>Shooter</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevel1Module.cpp">
+      <Filter>Modules\GameLevel1</Filter>
+    </ClCompile>
+    <ClCompile Include="LoseModule.cpp">
+      <Filter>Modules\Lose</Filter>
+    </ClCompile>
+    <ClCompile Include="WinLevel1Module.cpp">
+      <Filter>Modules\Win\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="WinLevel2Module.cpp">
+      <Filter>Modules\Win\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevel2Module.cpp">
+      <Filter>Modules\GameLevel2</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuModule.cpp">
+      <Filter>Modules\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="InstructionsModule.cpp">
+      <Filter>Modules\Instructions</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLevel3Module.cpp">
+      <Filter>Modules\GameLevel3</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWinModule.cpp">
+      <Filter>Modules\GameWin</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditsModule.cpp">
+      <Filter>Modules\Credits</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Monsters\Zombie</Filter>
+    </ClCompile>
+    <ClCompile Include="SFXEngine.cpp">
+      <Filter>SFXEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="TownHUD.cpp">
+      <Filter>Unused\TownHUD</Filter>
+    </ClCompile>
+    <ClCompile Include="GesturesModule.cpp">
+      <Filter>Unused\Gestures</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1Module.cpp">
+      <Filter>Unused\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="NewGameModule.cpp">
+      <Filter>Unused\NewGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Tower.cpp">
+      <Filter>Unused\Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="library\glWindow.cpp">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="library\fps.cpp">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="library\TextureLoaderDevil.cpp">
+      <Filter>Library</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="module.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>ParticleSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Burst.h">
+      <Filter>ParticleSystem\ParticleSystems\Burst</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>ParticleSystem\ParticleSystems\Explosion</Filter>
+    </ClInclude>
+    <ClInclude Include="GestureTrail.h">
+      <Filter>ParticleSystem\ParticleSystems\GestureTrail</Filter>
+    </ClInclude>
+    <ClInclude Include="Fire.h">
+      <Filter>ParticleSystem\ParticleSystems\Fire</Filter>
+    </ClInclude>
+    <ClInclude Include="Rain.h">
+      <Filter>ParticleSystem\ParticleSystems\Rain</Filter>
+    </ClInclude>
+    <ClInclude Include="Shooter.h">
+      <Filter>Shooter</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevel1Module.h">
+      <Filter>Modules\GameLevel1</Filter>
+    </ClInclude>
+    <ClInclude Include="LoseModule.h">
+      <Filter>Modules\Lose</Filter>
+    </ClInclude>
+    <ClInclude Include="WinLevel1Module.h">
+      <Filter>Modules\Win\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="WinLevel2Module.h">
+      <Filter>Modules\Win\Level2</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevel2Module.h">
+      <Filter>Modules\GameLevel2</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuModule.h">
+      <Filter>Modules\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="InstructionsModule.h">
+      <Filter>Modules\Instructions</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLevel3Module.h">
+      <Filter>Modules\GameLevel3</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWinModule.h">
+      <Filter>Modules\GameWin</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditsModule.h">
+      <Filter>Modules\Credits</Filter>
+    </ClInclude>
+    <ClInclude Include="Gestures.h">
+      <Filter>Gestures</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Monsters\Zombie</Filter>
+    </ClInclude>
+    <ClInclude Include="SFXEngine.h">
+      <Filter>SFXEngine</Filter>
+    </ClInclude>
+    <ClInclude Include="TownHUD.h">
+      <Filter>Unused\TownHUD</Filter>
+    </ClInclude>
+    <ClInclude Include="GesturesModule.h">
+      <Filter>Unused\Gestures</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1Module.h">
+      <Filter>Unused\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="NewGameModule.h">
+      <Filter>Unused\NewGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Tower.h">
+      <Filter>Unused\Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="library\glWindow.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="library\fps.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="library\TextureLoaderDevil.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="script1.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
