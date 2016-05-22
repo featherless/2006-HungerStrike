@@ -18,6 +18,11 @@ Our team, GameDev Guys, won first place in the competition.
 The game was a 2d side scroller in which you cast spells using a simple gesture system in order to
 progress through three distinct levels.
 
+![Main menu](photos/menu.png)
+
+![Level 1](https://raw.githubusercontent.com/featherless/2006-HungerStrike/master/photos/level1.gif)
+![Level 2](https://raw.githubusercontent.com/featherless/2006-HungerStrike/master/photos/level2.gif)
+
 ![Screenshot](photos/shot1.gif)
 ![Screenshot](photos/shot2.gif)
 ![Screenshot](photos/shot3.gif)
