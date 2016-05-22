@@ -62,7 +62,7 @@ My working area:
 
 ## Soundtrack
 
-[The soundtrack is available on Soundcloud](https://soundcloud.com/verkoeyen/sets/2006-hunger-strike).
+[The soundtrack is available on Soundcloud](https://soundcloud.com/featherless-digital-creative-history/sets/2006-hunger-strike).
 
 ## Reviews
 
